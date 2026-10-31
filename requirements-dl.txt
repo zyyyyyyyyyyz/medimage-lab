@@ -1,0 +1,3 @@
+-r requirements.txt
+# TensorFlow doit être installé avec une version compatible à votre Python/OS.
+tensorflow==2.20.0

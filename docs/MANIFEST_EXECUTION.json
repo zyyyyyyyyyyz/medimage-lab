@@ -1,0 +1,121 @@
+[
+  {
+    "notebook": "01_Introduction_traitement_d'images_medicales_Mme_ATTIA.ipynb",
+    "sha256": "a8c4f73fa09afe86bf7810b1b80ee230ee0717584067ea123c5c6c53096a155d",
+    "cells_total": 37,
+    "cells_code": 15,
+    "executed_code_cells": 13,
+    "code_cells_with_output": 12,
+    "function_definitions": [],
+    "extracted_python": "TP1_introduction_f9fe0c.py"
+  },
+  {
+    "notebook": "03_Segmentation_Mme_ATTIA(1).ipynb",
+    "sha256": "361e7dd509c81981483749a88468273f7ca236cfa9df28fa7d8dd77a89f9d0f9",
+    "cells_total": 17,
+    "cells_code": 6,
+    "executed_code_cells": 6,
+    "code_cells_with_output": 4,
+    "function_definitions": [
+      "classe_sombre",
+      "nettoyer",
+      "dice",
+      "iou"
+    ],
+    "extracted_python": "TP3_segmentation_4643e0.py"
+  },
+  {
+    "notebook": "03-Segmentation_Mme_ATTIA.ipynb",
+    "sha256": "57872823b62b1b6be867d5deece01282b29c60beb870d7dfd54ed38f45d514e3",
+    "cells_total": 26,
+    "cells_code": 8,
+    "executed_code_cells": 7,
+    "code_cells_with_output": 6,
+    "function_definitions": [
+      "classe_sombre",
+      "nettoyer",
+      "dice",
+      "iou"
+    ],
+    "extracted_python": "TP3_segmentation_a5fcf8.py"
+  },
+  {
+    "notebook": "04_UNET_Mme_ATTIA_(1) (3).ipynb",
+    "sha256": "74a86bf15747b9ecf731ae447f1d4eed3bf745a8297d572b6349725b4029cb32",
+    "cells_total": 40,
+    "cells_code": 20,
+    "executed_code_cells": 20,
+    "code_cells_with_output": 15,
+    "function_definitions": [
+      "simple_unet_model",
+      "dice_score"
+    ],
+    "extracted_python": "TP4_unet_773755.py"
+  },
+  {
+    "notebook": "TP_Recalage_Retine_FIRE_Exemple_Execute(1).ipynb",
+    "sha256": "792f2bbb27aeb5d9910b5ae04eaf1cf50db911f196dbb7b7194fc21b8a139f99",
+    "cells_total": 27,
+    "cells_code": 14,
+    "executed_code_cells": 14,
+    "code_cells_with_output": 8,
+    "function_definitions": [
+      "FirePair",
+      "find_fire_pairs",
+      "read_pair",
+      "preprocess_for_features",
+      "match_features",
+      "estimate_transform",
+      "warp_to_fixed",
+      "valid_retina_mask",
+      "paired_overlap_mask",
+      "similarity_metrics",
+      "transform_points",
+      "score_with_matches",
+      "evaluate_pair",
+      "evaluate_dataset",
+      "summarize_results",
+      "compare_similarity_before_after",
+      "show_registration",
+      "plot_landmarks",
+      "visualize_optical_flow",
+      "make_synthetic_fire"
+    ],
+    "extracted_python": "TP_FIRE_94505b.py"
+  },
+  {
+    "notebook": "notebookef64fd0abd.ipynb",
+    "sha256": "0986f4b8123ef6f843d9b36a2e1a197665b7d6b06867c65afa3c6bfc414e66e1",
+    "cells_total": 31,
+    "cells_code": 15,
+    "executed_code_cells": 15,
+    "code_cells_with_output": 9,
+    "function_definitions": [
+      "FirePair",
+      "find_fire_pairs",
+      "discover_fire_dataset",
+      "fire_input_diagnostics",
+      "read_pair",
+      "preprocess_for_features",
+      "match_features",
+      "estimate_transform",
+      "warp_to_fixed",
+      "valid_retina_mask",
+      "paired_overlap_mask",
+      "similarity_metrics",
+      "transform_points",
+      "score_with_matches",
+      "evaluate_pair",
+      "evaluate_dataset",
+      "summarize_results",
+      "compare_similarity_before_after",
+      "select_demo_pair",
+      "plot_feature_matches",
+      "show_registration",
+      "plot_landmarks",
+      "visualize_optical_flow",
+      "make_synthetic_fire"
+    ],
+    "extracted_python": "TP_FIRE_full_85726d.py"
+  }
+]
